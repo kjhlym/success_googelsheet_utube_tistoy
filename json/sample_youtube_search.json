@@ -1,0 +1,14 @@
+{
+  "video_id": "sample_video_id",
+  "title": "샘플 영상 제목",
+  "description": "이 영상은 샘플 설명입니다. 실제 YouTube 영상에서 API를 통해 가져온 설명이 여기에 들어갑니다.",
+  "channel_title": "샘플 채널명",
+  "upload_date": "2025-04-11T00:00:00Z",
+  "view_count": "1000",
+  "tags": [
+    "샘플",
+    "테스트",
+    "예제"
+  ],
+  "search_date": "2025-04-11 10:00:00"
+}
