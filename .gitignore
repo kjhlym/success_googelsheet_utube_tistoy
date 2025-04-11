@@ -1,0 +1,26 @@
+# 환경 설정 및 임시 파일
+.env
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+
+# Chrome 프로필 폴더 (로그인 정보 등 포함)
+ChromeProfile/
+
+# 생성된 JSON 파일들 (임시 파일)
+json/*.json
+# json/.gitkeep 파일은 유지
+
+# 디버그 스크린샷 파일
+debug_screenshot_*.png
+confirm_screenshot_*.png
+
+# Ignore binary files
+chromedriver.exe
+
+# Ignore logs
+*.log
+
+# Ignore personal data
+*.pma
